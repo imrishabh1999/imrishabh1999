@@ -1,26 +1,27 @@
 # Hi, I'm Rishabh Singh 👋
+Machine Learning / AI Developer — GenAI · Deep Learning
 
-## Data Analyst | Python Enthusiast
 
-🔭 Currently working on data analysis projects using Python, Pandas & Seaborn  
-🌱 Learning SQL, Power BI, and Machine Learning  
-📫 Reach me: imrishabh1999@gmail.com  
-💼 Open to remote Data Analyst opportunities  
-
----
+🤖 Building end-to-end Machine Learning, Deep Learning & Generative AI solutions
+🧠 Working with RAG pipelines (LangChain, ChromaDB), the Claude API, and agentic AI / tool calling
+🎓 Certified through IIT Guwahati (E&ICT Academy) in Machine Learning & Deep Learning
+📫 Reach me: imrishabh1999@gmail.com
+💼 Open to ML/AI roles — Delhi NCR & Remote
 
 ## 🛠️ Technical Skills
+🛠️ Technical Skills
 
-**Programming & Analysis:**  
-Python • Pandas • NumPy • SQL • Excel
+Generative AI / LLMs:
+RAG Pipelines • LangChain • Vector Databases (ChromaDB) • Claude API • Prompt Engineering • Agentic AI & Tool Calling
 
-**Visualization:**  
-Matplotlib • Seaborn • Data Storytelling
+Machine Learning & Deep Learning:
+Scikit-Learn • Keras • TensorFlow • Random Forest • XGBoost • CNN • ANN/DNN • SMOTE
 
-**Tools:**  
-Jupyter Notebook • Git • GitHub • VS Code
+Data & Visualization:
+Pandas • NumPy • Matplotlib • Seaborn • EDA • Statistical Analysis • SQL
 
----
+Programming & Tools:
+Python • Jupyter Notebook • Git/GitHub • VS Code • React • FastAPI
 
 ## 📊 Featured Projects
 
